@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0899cb7-0fbe-48ab-803f-10635392e96b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@HCY4C18404006936]" />
+  <component name="ProjectId" id="1uz9uMCqKoVFm1TX5mLXM8CgWqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.android.tools.idea.sqlite.queryhistory" value="delete from Schedule&#10;delete from complaint&#10;select * from inquiry&#10;delete from customer_address&#10;&#10;delete from inquiry&#10;&#10;delete from create_customer" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Abdul_Rehman_Drive\FlutterProjects\Normal Flutter Backup\Flutter Infinite List\infinitlist\lib\ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/infinitlist/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0899cb7-0fbe-48ab-803f-10635392e96b" name="Default Changelist" comment="" />
+      <created>1625657772253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625657772253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="280" y="9" key="#Project_Structure" timestamp="1626153584178">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="280" y="9" key="#Project_Structure/0.0.1600.870@0.0.1600.870" timestamp="1626153584178" />
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625657835743">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1625657835743" />
+    <state x="92" y="92" width="1416" height="686" key="AVDManager" timestamp="1626177754772">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="92" y="92" width="1416" height="686" key="AVDManager/0.0.1600.870@0.0.1600.870" timestamp="1626177754772" />
+    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1626169862249">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1626169862249" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1627019307693">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1627019307693">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1627019307693">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1627019307693">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
+    <state x="374" y="19" key="SettingsEditor" timestamp="1626161945295">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="374" y="19" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1626161945295" />
+  </component>
+</project>
