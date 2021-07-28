@@ -33,6 +33,7 @@ dependencies:
   http: ^0.13.1
   infinite_scroll_pagination: ^3.1.0
   shimmer: ^2.0.0
+  provider: ^5.0.0
 
 dev_dependencies:
   flutter_test:

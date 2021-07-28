@@ -23,4 +23,25 @@ class API {
       return "exception";
     }
   }
+
+  static Future<String> fetch_user_list1() async {
+    try {
+      final response = await http
+          .get(Uri.parse("https://jsonplaceholder.typicode.com/photos"))
+          .timeout(Duration(seconds: 60));
+      if (response.statusCode == 200) {
+        // print("Body:" + response.body.toString());
+        return response.body;
+      } else {
+        print("Bad request");
+        return "bad request";
+      }
+    } on TimeoutException {
+      print("Timeout");
+      return "Timeout";
+    } catch (e) {
+      print("exception");
+      return "exception";
+    }
+  }
 }

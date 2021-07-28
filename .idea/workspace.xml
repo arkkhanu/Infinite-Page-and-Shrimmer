@@ -7,13 +7,24 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0899cb7-0fbe-48ab-803f-10635392e96b" name="Default Changelist" comment="" />
+    <list default="true" id="b0899cb7-0fbe-48ab-803f-10635392e96b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infinitlist/lib/api/api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/infinitlist/lib/api/api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infinitlist/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/infinitlist/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infinitlist/lib/model/user.dart" beforeDir="false" afterPath="$PROJECT_DIR$/infinitlist/lib/model/user.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infinitlist/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/infinitlist/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infinitlist/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/infinitlist/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@HCY4C18404006936]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1uz9uMCqKoVFm1TX5mLXM8CgWqN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +36,7 @@
     <property name="com.android.tools.idea.sqlite.queryhistory" value="delete from Schedule&#10;delete from complaint&#10;select * from inquiry&#10;delete from customer_address&#10;&#10;delete from inquiry&#10;&#10;delete from create_customer" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RealProjects/CCL QR CODE FLutter/CCL QR CODE/CCL-QR-Code/GETXccl_qr_code" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -72,29 +83,33 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="92" y="92" width="1416" height="686" key="AVDManager/0.0.1600.870@0.0.1600.870" timestamp="1626177754772" />
-    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1626169862249">
+    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1627298063325">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1626169862249" />
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1627019307693">
+    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1627298063325" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1627450527003">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
-    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1627019307693">
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1627450527003" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1627450527003">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
-    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1627019307693">
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1627450527003" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1627450527003">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
-    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1627019307693">
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1627450527003" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1627450527003">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1627019307693" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1627450527003" />
     <state x="374" y="19" key="SettingsEditor" timestamp="1626161945295">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="374" y="19" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1626161945295" />
+    <state x="507" y="168" width="585" height="534" key="find.popup" timestamp="1627384060434">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="507" y="168" width="585" height="534" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1627384060434" />
   </component>
 </project>

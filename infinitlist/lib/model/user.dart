@@ -38,9 +38,4 @@ class User {
   static List<User> parseList(List<dynamic> list) {
     return list.map((e) => User.fromJson(e)).toList();
   }
-
-  // static List<Photo> parseList(List<dynamic> list) {
-  //   return list.map((i) => Photo.fromJson(i)).toList();
-  // }
-
 }
